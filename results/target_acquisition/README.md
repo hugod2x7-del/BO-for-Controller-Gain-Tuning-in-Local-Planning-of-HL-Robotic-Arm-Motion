@@ -12,5 +12,4 @@ The spreadsheets include:
 
 - Bayesian Optimization cost history
 - Optimized controller gains
-- Position and orientation tracking errors
 - Data used to generate the figures presented in the paper
